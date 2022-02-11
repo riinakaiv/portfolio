@@ -10,7 +10,7 @@
 77C:\Users\riina\myprojects\portfolio\node_modules\@parcel\utils\src\urlJoin.js132889757836357547 0
 48C:\Users\riina\myprojects\portfolio\package.json132889846462900992 0
 71C:\Users\riina\myprojects\portfolio\node_modules\css-tree\lib\generator132889757838457998 1
-46C:\Users\riina\myprojects\portfolio\.gitignore132889810928878673 0
+46C:\Users\riina\myprojects\portfolio\.gitignore132889934167546306 0
 106C:\Users\riina\myprojects\portfolio\node_modules\terser\node_modules\source-map\lib\source-map-consumer.js132889757829996081 0
 80C:\Users\riina\myprojects\portfolio\node_modules\cosmiconfig\dist\index.d.ts.map132889757831186339 0
 66C:\Users\riina\myprojects\portfolio\node_modules\lmdb\src\misc.cpp132889757837467758 0
@@ -19,7 +19,7 @@
 68C:\Users\riina\myprojects\portfolio\node_modules\buffer-from\LICENSE132889757821714217 0
 69C:\Users\riina\myprojects\portfolio\node_modules\lmdb\dependencies\v8132889757838397959 1
 67C:\Users\riina\myprojects\portfolio\node_modules\@parcel\utils\test132889757836397526 1
-40C:\Users\riina\myprojects\portfolio\dist132889844984141621 1
+40C:\Users\riina\myprojects\portfolio\dist132889952416045866 1
 83C:\Users\riina\myprojects\portfolio\node_modules\type-fest\source\package-json.d.ts132889757831456414 0
 70C:\Users\riina\myprojects\portfolio\node_modules\colord\plugins\mix.js132889757827475552 0
 95C:\Users\riina\myprojects\portfolio\node_modules\caniuse-lite\data\features\mutationobserver.js132889757847049907 0
@@ -44,7 +44,7 @@
 75C:\Users\riina\myprojects\portfolio\node_modules\normalize-url\package.json132889757823514617 0
 71C:\Users\riina\myprojects\portfolio\node_modules\util-deprecate\LICENSE132889757823494602 0
 76C:\Users\riina\myprojects\portfolio\node_modules\node-addon-api\CHANGELOG.md132889757830436190 0
-50C:\Users\riina\myprojects\portfolio\src\index.html132889844983060907 0
+50C:\Users\riina\myprojects\portfolio\src\index.html132890345750238007 0
 74C:\Users\riina\myprojects\portfolio\node_modules\@parcel\types\build-ts.js132889757822834461 0
 91C:\Users\riina\myprojects\portfolio\node_modules\@parcel\packager-js\src\ESMOutputFormat.js132889757827695561 0
 63C:\Users\riina\myprojects\portfolio\node_modules\@parcel\logger132889757825785146 1
@@ -4068,7 +4068,7 @@
 97C:\Users\riina\myprojects\portfolio\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js132889757829505972 0
 101C:\Users\riina\myprojects\portfolio\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js132889757833306820 0
 99C:\Users\riina\myprojects\portfolio\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js132889757830176118 0
-51C:\Users\riina\myprojects\portfolio\dist\index.html132889844984131630 0
+51C:\Users\riina\myprojects\portfolio\dist\index.html132889952415575771 0
 102C:\Users\riina\myprojects\portfolio\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js132889757829956102 0
 100C:\Users\riina\myprojects\portfolio\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js132889757831096322 0
 106C:\Users\riina\myprojects\portfolio\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js132889757832616713 0
@@ -4502,5 +4502,5 @@
 62C:\Users\riina\myprojects\portfolio\node_modules\.bin\svgo.cmd132889757853561368 0
 64C:\Users\riina\myprojects\portfolio\node_modules\.bin\terser.cmd132889757853571388 0
 64C:\Users\riina\myprojects\portfolio\node_modules\.bin\terser.ps1132889757853571388 0
-62C:\Users\riina\myprojects\portfolio\dist\portfolio.59712999.js132889843914338910 0
-66C:\Users\riina\myprojects\portfolio\dist\portfolio.59712999.js.map132889843914368913 0
+62C:\Users\riina\myprojects\portfolio\dist\portfolio.59712999.js132889952415995881 0
+66C:\Users\riina\myprojects\portfolio\dist\portfolio.59712999.js.map132889952416015844 0
