@@ -1,5 +1,5 @@
 <template>
-<div id= "first" class="firstsection">
+<div class="firstsection">
     <section class="first image section">
 <nav class="level">
   <p class="level-item has-text-centered">
@@ -21,9 +21,13 @@
 </section>
 </div>
 
-
-
-
+<div class="hero-image">
+  <div class="hero-text">
+    <h1 style="font-size:50px">Minu porfoolio ootab tutvumist</h1>
+    <h3>ja ma tegelen ka programmeerimisega</h3>
+    <button>Hire me</button>
+  </div>
+</div>
 
 <div class="container">
     <section class="section" >
@@ -43,6 +47,8 @@
         </modal>
     </section>
 </div>
+
+
 </template>
 
 <script>
