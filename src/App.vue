@@ -26,7 +26,7 @@
 
 
 <div class="container">
-    <section class="section">
+    <section class="section" >
         <button class="button is-primary" @click="active=true">Click me</button>
         <button class="button is-primary" @click="active2=true">Click me2</button>
         <modal 

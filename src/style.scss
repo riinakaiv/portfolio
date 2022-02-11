@@ -1,10 +1,15 @@
 
-$bgcolor: black;
+
 $link: white;
 
 body {
-    background-color: lighten($bgcolor, 30%);
+    background-color: grey;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
+.section {
+    background-color: white;
+}
+    
 
 @import '../node_modules/bulma/bulma.sass';
